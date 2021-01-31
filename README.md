@@ -1,9 +1,9 @@
 # Xamarin
 
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=445&a=true&file=xamarin_app1.png&t=DzyDQHUjlw3qxdt&scalingup=0)
+![X](https://user-images.githubusercontent.com/44413511/106394594-b507e000-63fd-11eb-8f8b-8cb2b90ac9b7.PNG)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=445&a=true&file=X.PNG&t=yADlgnk2rJBCRkz&scalingup=0)
+![X1](https://user-images.githubusercontent.com/44413511/106394595-b5a07680-63fd-11eb-82f9-833a13b47e50.PNG)
 
+![xamarin_app1](https://user-images.githubusercontent.com/44413511/106394596-b6390d00-63fd-11eb-9557-073788894457.png)
 
-![Alt text](http://dev-dev.pl/chmura/public/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=445&a=true&file=X1.PNG&t=VOVGJR3oEYblpbk&scalingup=0)
